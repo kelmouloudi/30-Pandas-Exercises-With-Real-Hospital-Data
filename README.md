@@ -2,4 +2,4 @@ This is the repository for the Medium article "Exercises on SQL and Pandas with 
 
 The schema for the used data is as follows:
 
-![alt text](main/schema.png)
+![alt text](schema.png)
