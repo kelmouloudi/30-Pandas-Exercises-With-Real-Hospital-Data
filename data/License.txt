@@ -1,0 +1,29 @@
+The data provided in this folder is Public Domain. 
+  
+SOURCE: SyntheticMass
+LICENSE: Public Domain
+LINK: https://mavenanalytics.io/challenges/maven-hospital-challenge/facee4d2-8369-4c87-a55e-e6c7ed2a42d8
+FILE TYPES: CSV
+TAGS: Healthcare - Geospatial - Time Series
+DATA STRUCTURE: Multiple tables
+# OF RECORDS: 75,592
+# OF FIELDS: 55
+DATE ADDED: 06/25/2024
+
+About SyntheticMass:
+
+SyntheticMass (syntheticmass.mitre.org) is a model of synthetic residents of the state of Massachusetts, with artificial health records for the fictional residents. This establishes a risk-free environment for:
+- Data visualization
+-Risk stratification
+-Care management
+-Clinical decision support
+-Patient Reported data integration
+-Evaluation of new treatment models
+-Privacy and consent models
+-Security and authorization models
+-Third-party app development
+
+SyntheticMass provides a sandbox for Health IT developers, researchers and clinicians interested in prototyping new healthcare solutions. It enables this through:
+- Realistic data for fictional patients
+- Data that is free of protected health information (PHI) and personally identifiable information (PII) constraints
+- Datasets updated over time based on clinical healthcare models and epidemiological models of population health.
