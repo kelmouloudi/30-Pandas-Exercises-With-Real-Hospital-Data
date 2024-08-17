@@ -1,4 +1,4 @@
-This is the repository for the Medium article "Exercises on SQL and Pandas with Solutions - Level 1"
+This is the repository for the Medium article "30 Pandas Exercises With Real Hospital Data (+Hints & Solutions)"
 
 The schema for the used data is as follows:
 
